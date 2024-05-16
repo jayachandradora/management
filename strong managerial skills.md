@@ -36,7 +36,7 @@
     **8. Conclude Positively:**
      * Conclude your answer on a positive note, emphasizing the teamwork, resilience, and achievements of your team despite the challenges faced.
 
-  **Example Response:**
+    **Example Response:**
     
     In my previous role as a project manager, I led a team through the implementation of a complex software upgrade for our company's core systems. The project involved multiple stakeholders, tight deadlines, and technical          challenges. To motivate my team members, I focused on clear communication, empowerment, and recognition.
 
