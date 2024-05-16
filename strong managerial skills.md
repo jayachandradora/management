@@ -33,8 +33,8 @@
      * If applicable, quantify the results or impact of the project to demonstrate its significance. This could include meeting project deadlines, achieving cost savings,
        improving efficiency, or delivering high-quality deliverables.
 
-  **8. Conclude Positively:**
-    * Conclude your answer on a positive note, emphasizing the teamwork, resilience, and achievements of your team despite the challenges faced.
+    **8. Conclude Positively:**
+     * Conclude your answer on a positive note, emphasizing the teamwork, resilience, and achievements of your team despite the challenges faced.
 
   **Example Response:**
     
