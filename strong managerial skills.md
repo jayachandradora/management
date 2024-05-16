@@ -156,25 +156,25 @@
 
 ## Stakeholder Management:
 
-  *  1. Can you discuss a time when you had to manage conflicting priorities and expectations among stakeholders? How did you handle it?
+   - Can you discuss a time when you had to manage conflicting priorities and expectations among stakeholders? How did you handle it?
 
-  *  2. How do you identify and prioritize stakeholders' needs and expectations throughout a project lifecycle?
+   - How do you identify and prioritize stakeholders' needs and expectations throughout a project lifecycle?
 
-  *  3. What techniques do you use to build and maintain strong relationships with stakeholders?
+   - What techniques do you use to build and maintain strong relationships with stakeholders?
 
 ## Strategic Planning:
 
-  *  1. How do you align your team's objectives with the overall strategic goals of the organization?
+   - How do you align your team's objectives with the overall strategic goals of the organization?
 
-  *  2. Can you provide an example of a successful strategic initiative you led or contributed to? What was the outcome?
+   - Can you provide an example of a successful strategic initiative you led or contributed to? What was the outcome?
 
-  *  3. How do you stay informed about industry trends and market changes to inform your strategic planning process?
+   - How do you stay informed about industry trends and market changes to inform your strategic planning process?
 
 ## Conflict Resolution:
 
-  *  1. Describe a time when you encountered conflict within your team or between team members. How did you address it?
+   - Describe a time when you encountered conflict within your team or between team members. How did you address it?
 
-  *  2. What steps do you take to prevent conflicts from escalating in the workplace?
+   - What steps do you take to prevent conflicts from escalating in the workplace?
 
-  *  3. How do you approach mediating conflicts between stakeholders with differing interests or opinions?
+   - How do you approach mediating conflicts between stakeholders with differing interests or opinions?
 
