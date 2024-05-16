@@ -148,11 +148,11 @@
   
 ## Project Planning:
 
-  *  1. How do you approach project planning from initiation to completion? Can you walk us through your process?
+   - How do you approach project planning from initiation to completion? Can you walk us through your process?
 
-  *  2. What tools or methodologies do you utilize for project planning and tracking progress?
+   - What tools or methodologies do you utilize for project planning and tracking progress?
 
-  *  3. How do you prioritize tasks and allocate resources to ensure project deadlines are met?
+   - How do you prioritize tasks and allocate resources to ensure project deadlines are met?
 
 ## Stakeholder Management:
 
