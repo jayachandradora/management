@@ -48,7 +48,7 @@
 
     Ultimately, we successfully completed the software upgrade within the projected timeline, resulting in improved system performance and user satisfaction. This experience taught me the importance of effective leadership,         communication, and perseverance in driving team success through complex projects.
 
-   </details>
+    </details>
 
  - What strategies do you employ to ensure effective communication and collaboration within your team?
 
