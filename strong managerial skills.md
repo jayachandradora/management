@@ -2,11 +2,11 @@
 
 ## Team Leadership:
 
-  *  - Describe a challenging situation where you had to lead a team through a complex project. How did you motivate your team members?
+ - Describe a challenging situation where you had to lead a team through a complex project. How did you motivate your team members?
 
-  *  - What strategies do you employ to ensure effective communication and collaboration within your team?
+ - What strategies do you employ to ensure effective communication and collaboration within your team?
 
-  *  - How do you handle underperforming team members while maintaining morale and productivity?
+ - How do you handle underperforming team members while maintaining morale and productivity?
 
 ## Project Planning:
 
