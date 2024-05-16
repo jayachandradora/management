@@ -192,7 +192,7 @@
 
       By following this structured approach to project planning from initiation to completion, you can increase the likelihood of project success and deliver value to stakeholders. Each phase is crucial for ensuring that the         project is well-defined, well-executed, and effectively managed throughout its lifecycle.
     
-    </details>
+   </details>
 
    - What tools or methodologies do you utilize for project planning and tracking progress?
 
