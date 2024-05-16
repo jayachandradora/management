@@ -7,9 +7,9 @@
     <details>
       <summary> <font color="red"> Expand Details </font> </summary>
   
-   Answering a question about leading a team through a complex project and motivating team members,
+   <font color="red"> Answering a question about leading a team through a complex project and motivating team members,
    it's essential to provide a structured response that highlights your leadership skills, problem-solving abilities,
-   andinterpersonal effectiveness. Here's a suggested approach:
+   andinterpersonal effectiveness. Here's a suggested approach: </font>
   
    **1. Set the Stage:**
      * Briefly describe the context of the project, including its complexity, objectives, and any challenges or obstacles your team faced. This gives the interviewer a clear understanding of the situation.
