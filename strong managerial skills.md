@@ -4,10 +4,10 @@
 
  - Describe a challenging situation where you had to lead a team through a complex project. How did you motivate your team members?
 
- <details>
+    <details>
       <summary>Expand Answer</summary>
   
-  Answering a question about leading a team through a complex project and motivating team members, it's essential to provide a structured response that highlights your leadership skills, problem-solving abilities, and interpersonal effectiveness. Here's a suggested approach:
+        Answering a question about leading a team through a complex project and motivating team members, it's essential to provide a structured response that highlights your leadership skills, problem-solving abilities, and           interpersonal effectiveness. Here's a suggested approach:
   
 1. Set the Stage:
     * Briefly describe the context of the project, including its complexity, objectives, and any challenges or obstacles your team faced. This gives the interviewer a clear understanding of the situation.
@@ -44,7 +44,7 @@ Additionally, I encouraged a collaborative environment where team members felt c
 
 Ultimately, we successfully completed the software upgrade within the projected timeline, resulting in improved system performance and user satisfaction. This experience taught me the importance of effective leadership, communication, and perseverance in driving team success through complex projects.
 
- </details>
+     </details>
 
  - What strategies do you employ to ensure effective communication and collaboration within your team?
 
