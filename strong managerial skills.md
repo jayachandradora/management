@@ -100,6 +100,51 @@
    
  - How do you handle underperforming team members while maintaining morale and productivity?
 
+   <details>
+      <summary>Expand Answer</summary>
+
+   Addressing underperforming team members while maintaining morale and productivity requires a delicate balance of empathy, clear communication, and proactive support. Here's how you can structure your response to this           question:
+   
+   **1. Early Identification and Feedback:**
+    * Start by mentioning the importance of early identification of underperformance. Explain how you regularly monitor team members' progress and performance against goals and expectations.
+    * Emphasize the significance of providing timely and constructive feedback to underperforming team members. This feedback should be specific, actionable, and focused on areas for improvement rather than personal criticism.
+   
+   **2. Understanding Root Causes:**
+    * Discuss your approach to understanding the root causes of underperformance. This could involve conducting performance reviews, one-on-one meetings, or informal check-ins to identify any obstacles or challenges hindering        the team member's performance.
+
+   **3. Developing Individualized Improvement Plans:**
+    * Explain how you work collaboratively with underperforming team members to develop individualized improvement plans. These plans should outline specific goals, milestones, and actions to address areas of weakness and            enhance performance.
+
+   **4. Providing Support and Resources:**
+    * Highlight the importance of providing ongoing support and resources to help underperforming team members succeed. This could include additional training, mentorship, coaching, or access to relevant tools and resources.
+
+   **5. Maintaining Morale and Motivation:**
+    * Discuss your strategies for maintaining morale and motivation within the team while addressing underperformance. This could involve emphasizing the team's collective goals and achievements, celebrating successes, and           offering encouragement and support to both underperforming and high-performing team members.
+
+   **6. Addressing Accountability:**
+    * Explain how you hold underperforming team members accountable for their actions and commitments while maintaining a supportive and non-punitive approach. This could involve setting clear expectations, tracking progress,        and addressing any deviations from the improvement plan in a constructive manner.
+
+   **7. Seeking Feedback and Iterating:**
+    * Mention how you regularly seek feedback from underperforming team members to assess the effectiveness of the improvement plan and make any necessary adjustments. This demonstrates your commitment to continuous                  improvement and growth.
+
+   **8. Escalating if Necessary:**
+    * Finally, discuss your approach to escalating the situation if underperformance persists despite your efforts to support and coach the team member. This could involve involving HR or senior management to explore                 alternative solutions or interventions.
+
+   **Example Response:**
+
+    In my experience, addressing underperforming team members while maintaining morale and productivity requires a combination of empathy, clear communication, and proactive support.
+
+    Firstly, I prioritize early identification of underperformance by regularly monitoring team members' progress and performance against established goals and expectations. When I notice a team member struggling to meet           expectations, I initiate a candid and constructive conversation to provide feedback and understand the root causes of their challenges.
+
+Next, I work collaboratively with the team member to develop an individualized improvement plan tailored to their specific needs and circumstances. This plan includes clear goals, milestones, and actions to address areas of weakness and enhance performance. Throughout this process, I ensure that the team member feels supported and empowered to take ownership of their development.
+
+To maintain morale and motivation within the team, I emphasize our collective goals and achievements, celebrate successes, and offer encouragement and support to both underperforming and high-performing team members. By fostering a positive and supportive team culture, we can overcome challenges together and stay focused on achieving our objectives.
+
+I also hold underperforming team members accountable for their actions and commitments while maintaining a supportive and non-punitive approach. This involves setting clear expectations, providing ongoing feedback, and addressing any deviations from the improvement plan in a constructive manner.
+
+If underperformance persists despite our efforts, I am not hesitant to escalate the situation and involve HR or senior management to explore alternative solutions or interventions. Ultimately, my goal is to help every team member reach their full potential while ensuring the overall success and productivity of the team."
+    
+   </details>
 ## Project Planning:
 
   *  1. How do you approach project planning from initiation to completion? Can you walk us through your process?
