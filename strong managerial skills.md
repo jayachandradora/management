@@ -196,41 +196,41 @@
 
    - What tools or methodologies do you utilize for project planning and tracking progress?
 
-   <details>
-    <summary>Expand Details</summary>
+     <details>
+      <summary>Expand Details</summary>
    
-    There are various tools and methodologies available for project planning and tracking progress, each with its own strengths and suitability depending on the nature and requirements of the project. Here's a list of commonly     used tools and methodologies:
+      There are various tools and methodologies available for project planning and tracking progress, each with its own strengths and suitability depending on the nature and requirements of the project. Here's a list of              commonlyused tools and methodologies:
     
-   **1. Project Management Software:**
+      **1. Project Management Software:**
     
-     * Microsoft Project: A comprehensive project management software that allows for creating project plans, scheduling tasks, allocating resources, and tracking progress.
-     * Asana: A popular cloud-based project management tool that facilitates task management, collaboration, and tracking project progress.
-     * Trello: A visual project management tool based on boards, lists, and cards, which is particularly useful for agile project management and task tracking.
-     * Jira: Widely used in software development, Jira is an issue tracking and agile project management tool that enables teams to plan, track, and release software.
+        * Microsoft Project: A comprehensive project management software that allows for creating project plans, scheduling tasks, allocating resources, and tracking progress.
+        * Asana: A popular cloud-based project management tool that facilitates task management, collaboration, and tracking project progress.
+        * Trello: A visual project management tool based on boards, lists, and cards, which is particularly useful for agile project management and task tracking.
+        * Jira: Widely used in software development, Jira is an issue tracking and agile project management tool that enables teams to plan, track, and release software.
   
-   **2. Agile Methodologies:**
-    * Scrum: An iterative and incremental agile framework for managing complex projects, particularly in software development. Scrum emphasizes collaboration, adaptability, and delivering value incrementally through time-boxed       iterations called sprints.
-    * Kanban: A visual workflow management method that emphasizes continuous delivery and optimization of processes. Kanban boards are used to visualize work items, workflow stages, and bottlenecks, enabling teams to manage          work in progress (WIP) and optimize flow.
+      **2. Agile Methodologies:**
+        * Scrum: An iterative and incremental agile framework for managing complex projects, particularly in software development. Scrum emphasizes collaboration, adaptability, and delivering value incrementally through time-            boxed iterations called sprints.
+        * Kanban: A visual workflow management method that emphasizes continuous delivery and optimization of processes. Kanban boards are used to visualize work items, workflow stages, and bottlenecks, enabling teams to                 manage work in progress (WIP) and optimize flow.
 
-   **3. Gantt Charts:**
-    * Gantt charts are bar charts that represent project tasks and their dependencies over time. They are useful for visualizing project timelines, task dependencies, and resource allocations.
-    * Tools like Microsoft Excel, Microsoft Project, and online project management software often include Gantt chart functionalities for project planning and tracking progress.
+      **3. Gantt Charts:**
+        * Gantt charts are bar charts that represent project tasks and their dependencies over time. They are useful for visualizing project timelines, task dependencies, and resource allocations.
+        * Tools like Microsoft Excel, Microsoft Project, and online project management software often include Gantt chart functionalities for project planning and tracking progress.
 
-   **4. Earned Value Management (EVM):**
-    * EVM is a project management technique that integrates scope, schedule, and cost metrics to assess project performance and progress. It provides objective measures of project performance based on planned versus actual           progress, enabling early identification of issues and forecasting future performance.
+       **4. Earned Value Management (EVM):**
+        * EVM is a project management technique that integrates scope, schedule, and cost metrics to assess project performance and progress. It provides objective measures of project performance based on planned versus actual           progress, enabling early identification of issues and forecasting future performance.
 
-   **5. Critical Path Method (CPM):**
-    * CPM is a project scheduling method that identifies the critical path—the sequence of tasks that determines the shortest possible duration for completing the project. It helps project managers prioritize activities,             allocate resources, and identify potential schedule risks.
+       **5. Critical Path Method (CPM):**
+        * CPM is a project scheduling method that identifies the critical path—the sequence of tasks that determines the shortest possible duration for completing the project. It helps project managers prioritize activities,             allocate resources, and identify potential schedule risks.
 
-   **6. Burndown Charts and Burnup Charts:**
-    * Burndown charts and burnup charts are agile project management tools that visualize the progress of work over time. They show the remaining work (burndown) or completed work (burnup) against time, helping teams track           progress and forecast project completion dates.
+       **6. Burndown Charts and Burnup Charts:**
+        * Burndown charts and burnup charts are agile project management tools that visualize the progress of work over time. They show the remaining work (burndown) or completed work (burnup) against time, helping teams track           progress and forecast project completion dates.
 
-   **7. Collaboration Tools:**
-    * Collaboration tools such as Slack, Microsoft Teams, and Zoom facilitate communication, collaboration, and information sharing among project team members. They are essential for coordinating activities, resolving issues,        and sharing progress updates in real-time.
+       **7. Collaboration Tools:**
+         * Collaboration tools such as Slack, Microsoft Teams, and Zoom facilitate communication, collaboration, and information sharing among project team members. They are essential for coordinating activities, resolving                issues, and sharing progress updates in real-time.
     
-      Ultimately, the choice of tools and methodologies depends on factors such as project complexity, team size, organizational preferences, and industry standards. It's important to select tools and methodologies that best         suit the project's needs and objectives, and to adapt them as necessary throughout the project lifecycle.
+           Ultimately, the choice of tools and methodologies depends on factors such as project complexity, team size, organizational preferences, and industry standards. It's important to select tools and methodologies that              best suit the project's needs and objectives, and to adapt them as necessary throughout the project lifecycle.
    
-   </details>
+      </details>
    
    - How do you prioritize tasks and allocate resources to ensure project deadlines are met?
 
