@@ -153,42 +153,42 @@
      <details>
       <summary>Expand Details</summary>
 
-**1. Initiation:**
-    * Define the project scope, objectives, and deliverables in consultation with stakeholders.
-    * Identify key stakeholders, their roles, and responsibilities.
-    * Conduct a feasibility study to assess the project's viability and alignment with organizational goals.
-    * Develop a project charter outlining the project's purpose, objectives, scope, constraints, and success criteria.
+      **1. Initiation:**
+       * Define the project scope, objectives, and deliverables in consultation with stakeholders.
+       * Identify key stakeholders, their roles, and responsibilities.
+       * Conduct a feasibility study to assess the project's viability and alignment with organizational goals.
+       * Develop a project charter outlining the project's purpose, objectives, scope, constraints, and success criteria.
     
-**2. Planning:**
-    * Create a project plan detailing the tasks, milestones, timelines, resources, and dependencies.
-    * Break down the project into manageable phases or work packages.
-    * Define project roles and responsibilities for team members.
-    * Identify and allocate resources (human, financial, and materials) required for each phase of the project.
-    * Develop a risk management plan to identify, assess, and mitigate potential risks.
-    * Establish communication channels and protocols for reporting progress, issues, and changes.
-    * Obtain stakeholder buy-in and approval for the project plan.
+      **2. Planning:**
+       * Create a project plan detailing the tasks, milestones, timelines, resources, and dependencies.
+       * Break down the project into manageable phases or work packages.
+       * Define project roles and responsibilities for team members.
+       * Identify and allocate resources (human, financial, and materials) required for each phase of the project.
+       * Develop a risk management plan to identify, assess, and mitigate potential risks.
+       * Establish communication channels and protocols for reporting progress, issues, and changes.
+       * Obtain stakeholder buy-in and approval for the project plan.
     
-**3. Execution:**
-    * Implement the project plan according to the defined scope, schedule, and budget.
-    * Assign tasks to team members and provide necessary support and guidance.
-    * Monitor progress against the project plan, tracking key performance indicators (KPIs) such as schedule adherence, budget utilization, and quality metrics.
-    * Conduct regular team meetings to review progress, address issues, and ensure alignment with project objectives.
-    * Manage changes to the project scope, schedule, or resources through a formal change control process.
-    * Address any issues or risks that arise during project execution promptly and effectively.
+     **3. Execution:**
+       * Implement the project plan according to the defined scope, schedule, and budget.
+       * Assign tasks to team members and provide necessary support and guidance.
+       * Monitor progress against the project plan, tracking key performance indicators (KPIs) such as schedule adherence, budget utilization, and quality metrics.
+       * Conduct regular team meetings to review progress, address issues, and ensure alignment with project objectives.
+       * Manage changes to the project scope, schedule, or resources through a formal change control process.
+       * Address any issues or risks that arise during project execution promptly and effectively.
     
-**4. Monitoring and Controlling:**
-    * Continuously monitor project performance and compare it against the planned objectives and KPIs.
-    * Identify deviations from the project plan and take corrective actions as necessary to keep the project on track.
-    * Review and update the project plan, including schedules, resource allocations, and risk management strategies, as needed.
-    * Communicate progress, issues, and changes to stakeholders through regular status reports and meetings.
-    * Ensure compliance with project governance processes and quality standards.
+     **4. Monitoring and Controlling:**
+      * Continuously monitor project performance and compare it against the planned objectives and KPIs.
+      * Identify deviations from the project plan and take corrective actions as necessary to keep the project on track.
+      * Review and update the project plan, including schedules, resource allocations, and risk management strategies, as needed.
+      * Communicate progress, issues, and changes to stakeholders through regular status reports and meetings.
+      * Ensure compliance with project governance processes and quality standards.
 
-**5. Closure:**
-    * Complete all project deliverables and obtain acceptance from stakeholders.
-    * Conduct a post-project review or lessons learned session to assess the project's success, identify areas for improvement, and capture best practices.
-    * Obtain formal project closure, including documentation of lessons learned, final project reports, and handover of deliverables.
-    * Celebrate achievements and recognize the contributions of team members.
-    * Release project resources and close out any remaining administrative tasks, such as finalizing contracts and archiving project documentation.
+     **5. Closure:**
+      * Complete all project deliverables and obtain acceptance from stakeholders.
+      * Conduct a post-project review or lessons learned session to assess the project's success, identify areas for improvement, and capture best practices.
+      * Obtain formal project closure, including documentation of lessons learned, final project reports, and handover of deliverables.
+      * Celebrate achievements and recognize the contributions of team members.
+      * Release project resources and close out any remaining administrative tasks, such as finalizing contracts and archiving project documentation.
 
       By following this structured approach to project planning from initiation to completion, you can increase the likelihood of project success and deliver value to stakeholders. Each phase is crucial for ensuring that the         project is well-defined, well-executed, and effectively managed throughout its lifecycle.
     
