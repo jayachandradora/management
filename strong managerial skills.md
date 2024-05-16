@@ -1,22 +1,20 @@
 # Strong managerial skills - including team leadership, project planning, stakeholder management, strategic planning, and conflict resolution.
 
-# Managerial Skills and Project Management Interview Questions
-
 ## Team Leadership:
 
-### 1. Describe a challenging situation where you had to lead a team through a complex project. How did you motivate your team members?
+  *  1. Describe a challenging situation where you had to lead a team through a complex project. How did you motivate your team members?
 
-### 2. What strategies do you employ to ensure effective communication and collaboration within your team?
+  *  2. What strategies do you employ to ensure effective communication and collaboration within your team?
 
-### 3. How do you handle underperforming team members while maintaining morale and productivity?
+  *  3. How do you handle underperforming team members while maintaining morale and productivity?
 
 ## Project Planning:
 
-### 1. How do you approach project planning from initiation to completion? Can you walk us through your process?
+  *  1. How do you approach project planning from initiation to completion? Can you walk us through your process?
 
-### 2. What tools or methodologies do you utilize for project planning and tracking progress?
+  *  2. What tools or methodologies do you utilize for project planning and tracking progress?
 
-### 3. How do you prioritize tasks and allocate resources to ensure project deadlines are met?
+  *  3. How do you prioritize tasks and allocate resources to ensure project deadlines are met?
 
 ## Stakeholder Management:
 
