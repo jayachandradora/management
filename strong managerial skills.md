@@ -34,7 +34,7 @@
        improving efficiency, or delivering high-quality deliverables.
 
     **8. Conclude Positively:**
-     * Conclude your answer on a positive note, emphasizing the teamwork, resilience, and achievements of your team despite the challenges faced.</br>
+     * Conclude your answer on a positive note, emphasizing the teamwork, resilience, and achievements of your team despite the challenges faced.<br>
 
     **Example Response:**
 
