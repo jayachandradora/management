@@ -1,4 +1,4 @@
-# Tesco Direct Bundled product pricing discrepancy issue
+# 1. Tesco Direct Bundled product pricing discrepancy issue
 
 ### ✅ **S - Situation**
 
@@ -57,6 +57,57 @@ To resolve this issue, I took the following steps:
 
 ---
 
+# 2. Product Feed & Feedback Service Resource Consumption Issue
+
+---
+
+## ✅ **STAR Format: Technical Challenge – Product Feed & Feedback Service Resource Consumption Issue**
+
+### ⭐ **Situation:**
+
+Our team manages a **Storm orchestration service** responsible for processing **product feeds from various vendors**. This service accepts feeds, processes them via several microservices, and posts the finalized data downstream to make products available for customers.
+
+As part of the pipeline, once a product is ready for live deployment, a **Feedback Service** sends status updates to vendors regarding their product feed processing.
+
+However, we encountered a **critical issue in production**:
+
+* The **Feedback Service had an N+1 database select problem**.
+* Combined with a new **product requirement** to send **consolidated feedback messages** (instead of individual messages), this led to **high memory usage and system crashes**, especially for **large product feeds (>100MB)**.
+
+---
+
+### 🎯 **Task:**
+
+1. **Reproduce the issue** to understand and confirm its root cause.
+2. **Determine the actual product feed size** that triggers the issue.
+3. **Identify whether the problem could be simulated in lower environments**.
+4. **Implement a fix** to avoid future crashes and meet product requirements.
+5. **Coordinate with stakeholders** (vendors and product owners) to communicate limitations and prioritize resolution.
+
+---
+
+### ⚙️ **Action:**
+
+1. **Analyzed logs and metrics** from production to isolate patterns in failing requests. Found crashes occurred only for feed sizes >100MB.
+2. Faced challenges in **reproducing the issue**, as not all feeds had problems. Identified the **size threshold** as a key factor.
+3. **Simulated large feed scenarios** in a lower environment to replicate memory consumption and verify the root cause.
+4. **Temporarily disabled the Feedback Service functionality** in production via a feature flag to prioritize feed processing and avoid business impact.
+5. **Reported the issue to vendors**, advising them to restrict product feed size to <100MB until the problem was resolved.
+6. Engaged with product owners to **align priorities**, explaining that consolidated feedback was temporarily disabled for stability.
+7. **Resolved the N+1 select issue** by optimizing database queries in the Feedback Service.
+8. Re-enabled the feedback functionality post-fix and tested thoroughly in staging before deployment to production.
+
+---
+
+### 🏁 **Result:**
+
+1. **System stability restored** in production with **no business loss or product feed processing delays**.
+2. Vendors adhered to size restrictions temporarily, ensuring smoother operations.
+3. **Successfully optimized the Feedback Service**, removing the N+1 query bottleneck.
+4. **Feedback Service feature flag re-enabled** after validating the fix.
+5. Team learned the importance of **feed size monitoring and scalable memory handling**, leading to longer-term architectural improvements.
+
+---
 
 
 
