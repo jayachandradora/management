@@ -27,7 +27,7 @@ FAANG companies value evidence of owning outcomes, influencing without authority
 [9](https://www.tryexponent.com/blog/how-to-ace-google-facebook-and-amazon-behavioral-interview-questions)
 [10](https://igotanoffer.com/blogs/tech/faang-interview-questions)
 
-Here are crafted STAR stories for leadership, conflict, and failure situations that you can adapt for your interviews:
+# Craft STAR stories for leadership, conflict, and failure
 
 ### Leadership STAR Story
 **Situation:** In a software project, two weeks before delivery, the lead designer and key developer unexpectedly left the team.  
